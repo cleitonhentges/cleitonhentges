@@ -2,8 +2,6 @@ Olá, Estou cursando ciencia de dados pela Ebac.
 Venho aprendendo linguagem Python e HTML.
 Experiencia com MySqL
 
-https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
-<!--
 **cleitonhentges/cleitonhentges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
