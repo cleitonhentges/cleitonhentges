@@ -1,3 +1,3 @@
-Olá, Estou cursando ciencia de dados pela Ebac.
-Venho aprendendo linguagem Python e HTML.
+Estudante de Ciência de Dados/Data Science pela EBAC, Venho aprendendo a linguagem Python e HTML.
+
 
