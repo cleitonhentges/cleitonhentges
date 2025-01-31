@@ -2,12 +2,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://www.google.com/imgres?q=wallpaper%20aesthetic%20black&imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F6003052%2Fpexels-photo-6003052.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-alfinauzikri-6003052.jpg%26fm%3Djpg&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fdark%2520wallpaper%2F&docid=b5Tk-Zvirte_WM&tbnid=ZL8RbRfTkLDzsM&vet=12ahUKEwif8Jex5p6LAxVhDbkGHS2AA5YQM3oECHcQAA..i&w=6144&h=8192&hcb=2&ved=2ahUKEwif8Jex5p6LAxVhDbkGHS2AA5YQM3oECHcQAA"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -23,15 +17,15 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.threads.net/@cleiton_hg?xmt=AQGzYYq9YxXMihPSigY-XiEI7zPbsJ9Vo20EtTQCh21yzNI" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="cleitonhentgesgerir9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/cleiton-hentges-44b444337/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
-
-
-
