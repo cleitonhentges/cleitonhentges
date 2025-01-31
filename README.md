@@ -2,7 +2,9 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dbrasil&psig=AOvVaw3umJcYIneRAZpSYDUAvk-r&ust=1738372776620000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKinubTlnosDFQAAAAAdAAAAABAE"  />
+<br clear="both">
+
+<img align="right" height="150" src="https://www.google.com/imgres?q=wallpaper%20aesthetic%20black&imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F6003052%2Fpexels-photo-6003052.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-alfinauzikri-6003052.jpg%26fm%3Djpg&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fdark%2520wallpaper%2F&docid=b5Tk-Zvirte_WM&tbnid=ZL8RbRfTkLDzsM&vet=12ahUKEwif8Jex5p6LAxVhDbkGHS2AA5YQM3oECHcQAA..i&w=6144&h=8192&hcb=2&ved=2ahUKEwif8Jex5p6LAxVhDbkGHS2AA5YQM3oECHcQAA"  />
 
 ###
 
@@ -30,8 +32,6 @@
 </div>
 
 ###
-
-
 
 
 
