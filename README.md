@@ -17,7 +17,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.threads.net/@cleiton_hg?xmt=AQGzYYq9YxXMihPSigY-XiEI7zPbsJ9Vo20EtTQCh21yzNI" target="_blank">
+  <a href="https://www.instagram.com/cleiton_hg?igsh=MWF5cHcxOXY0bDE0aA%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="cleitonhentgesgerir9@gmail.com" target="_blank">
